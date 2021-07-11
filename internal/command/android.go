@@ -12,7 +12,7 @@ import (
 
 const (
 	// androidOS is the android OS name
-	androidOS = "android"
+	androidOS = "android/arm64"
 	// androidImage is the fyne-cross image for the Android OS
 	androidImage = "fyneio/fyne-cross:1.1-android"
 )
